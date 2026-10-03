@@ -1,0 +1,8 @@
+*.tmp
+*.partial
+work/
+.staging/
+quarantine/
+Thumbs.db
+.DS_Store
+
